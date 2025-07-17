@@ -71,7 +71,7 @@ The goal of this project is to show how classic machine learning algorithms can 
 
 | Drawing Canvas | Prediction Example |
 |----------------|--------------------|
-| ![Canvas](D:\Project\Hand_written_Digit_Classification\App interface.png) | ![Prediction](screenshots/prediction.png) |
+| ![Canvas](\App interface.png) | ![Prediction](screenshots/prediction.png) |
 
 ---
 
