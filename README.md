@@ -67,13 +67,6 @@ The goal of this project is to show how classic machine learning algorithms can 
 | **Confusion Matrix**  | Available via `classification_report` |
 
 ---
-## 📸 Screenshots
-
-| Drawing Canvas | Prediction Example |
-|----------------|--------------------|
-| ![Canvas](\App interface.png) | ![Prediction](screenshots/prediction.png) |
-
----
 
 ## 🧩 Dependencies
 
