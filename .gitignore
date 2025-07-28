@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.hdf5
+*.pkl
+*.pt
+*.onnx
+
+# Dataset files
+*.csv
+*.json
+*.zip
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
